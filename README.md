@@ -3,7 +3,7 @@
 
 ![telaCompleta](https://user-images.githubusercontent.com/90348798/178862572-81dc87bf-e61a-41fe-8638-bfc5b9e0ae53.png)
 
-<br><br>
+<br>
 <h4 align="center"> 
 	 🚀 Concluido!!🚀
 </h4>
